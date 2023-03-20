@@ -1,12 +1,20 @@
-#Temporary readme.md
+# Temporary readme.md
 
-After properly install zsh and oh my zsh
+## Prerequisites
 
-make a backup of your currently .zshrc files in the home directory that you want to use this config.
-mv .zshrc .zshrc.bkp
+- [Zsh](https://www.zsh.org/) should be installed
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) should be installed
 
-Download .zshrc from this repo with wget
-https://raw.githubusercontent.com/thick-mustache/zsh_kali_config/main/.zshrc
+## Installation
 
-Make an the configuration update
-source ~/.zshrc
+Make a backup of your current **.zshrc** config in the home directory that you want to use this config:
+
+```mv .zshrc .zshrc.bkp```
+
+Download the customized .zshrc from your home repo:
+
+```wget https://raw.githubusercontent.com/thick-mustache/zsh_kali_config/main/.zshrc```
+
+Update the Zsh configuration:
+
+```source ~/.zshrc```
