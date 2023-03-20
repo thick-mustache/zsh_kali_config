@@ -1,4 +1,4 @@
-# Temporary readme.md
+# Kali Zsh config setup
 
 ## Prerequisites
 
