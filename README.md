@@ -11,7 +11,7 @@ Make a backup of your current **.zshrc** config in the home directory that you w
 
 ```mv .zshrc .zshrc.bkp```
 
-Download the customized .zshrc from your home repo:
+Download the customized .zshrc from home repo:
 
 ```wget https://raw.githubusercontent.com/thick-mustache/zsh_kali_config/main/.zshrc```
 
